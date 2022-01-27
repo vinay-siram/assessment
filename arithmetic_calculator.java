@@ -1,5 +1,3 @@
-package com.training;
-
 import java.util.Scanner;
 
 public class arithmetic_calculator {
